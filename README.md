@@ -322,7 +322,7 @@ For issues or questions:
 
 ## License
 
-This project is provided as-is for educational and security purposes.
+This project is for educational and security purposes.
 
 ## Credits
 
